@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Soma Jahan Madhobilata 👋
 
-<!--
-**webdevmadhobilataALT/webdevmadhobilataALT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Django-focused Backend Web Developer with 1.5 years of professional experience. I also work with Node.js and React, specialize in automation scripting, and teach Computer Science.
 
-Here are some ideas to get you started:
+## About
+- 🔭 Currently working on: Backend systems, APIs, and automation tooling
+- 🌱 Learning / improving: scalable services, API performance, and observability
+- 👯 Open to collaborate on: backend systems, integrations, and automation projects
+- 💬 I can help with: Django, Django REST Framework, Node.js scripting, REST/GraphQL APIs, and CS fundamentals
+- 📫 Contact: your.email@example.com · LinkedIn: https://www.linkedin.com/in/your-linkedin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Backend: Django, Django REST Framework
+- JavaScript / Node.js: Node.js for APIs and scripting
+- Frontend: React (integration, frontend-for-backend)
+- Automation: automation scripting, job scheduling, task automation
+- Databases & Tools: PostgreSQL, Redis, Git, Docker, CI/CD concepts
+- Other: REST APIs, Authentication, Background jobs, Testing
+
+## Experience
+- 1.5 years working on production-ready Django backends and API maintenance
+- Teaching: Computer Science tutoring / lectures / mentoring
+
+## Selected Projects
+- [Project A — placeholder](https://github.com/your-username/project-a) — Django REST API + background jobs
+- [Project B — placeholder](https://github.com/your-username/project-b) — Node.js automation tooling / integration scripts
+- (Replace the placeholders above with real project links and short 1–2 line descriptions.)
+
+## Work Style
+- I prioritize clear API design, testable code, and reusable automation.
+- I value documentation, code reviews, and incremental improvements.
+
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevmadhobilataALT&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=webdevmadhobilataALT&show_icons=true&theme=radical)
+
+---
+Thanks for visiting — feel free to reach out!
