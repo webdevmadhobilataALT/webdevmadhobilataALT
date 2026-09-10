@@ -7,7 +7,7 @@ I am a Django-focused Backend Web Developer with 1.5 years of professional exper
 - 🌱 Learning / improving: scalable services, API performance, and observability
 - 👯 Open to collaborate on: backend systems, integrations, and automation projects
 - 💬 I can help with: Django, Django REST Framework, Node.js scripting, REST/GraphQL APIs, and CS fundamentals
-- 📫 Contact: your.email@example.com · LinkedIn: https://www.linkedin.com/in/your-linkedin
+- 📫 Contact: webdevmadhobilata0412@gmail.com · LinkedIn: https://www.linkedin.com/in/soma-jahan-madhobilata-156613344/
 
 ## Skills
 - Backend: Django, Django REST Framework
