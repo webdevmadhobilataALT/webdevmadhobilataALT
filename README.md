@@ -21,11 +21,6 @@ I am a Django-focused Backend Web Developer with 1.5 years of professional exper
 - 1.5 years working on production-ready Django backends and API maintenance
 - Teaching: Computer Science tutoring / lectures / mentoring
 
-## Selected Projects
-- [Project A — placeholder](https://github.com/your-username/project-a) — Django REST API + background jobs
-- [Project B — placeholder](https://github.com/your-username/project-b) — Node.js automation tooling / integration scripts
-- (Replace the placeholders above with real project links and short 1–2 line descriptions.)
-
 ## Work Style
 - I prioritize clear API design, testable code, and reusable automation.
 - I value documentation, code reviews, and incremental improvements.
